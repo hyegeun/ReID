@@ -109,3 +109,5 @@ parzens = [
   ```
   python auto.py
   ```
+
+- Code Reference: FastReID
