@@ -1,6 +1,8 @@
-# [ICPR 2024] Re-Identification Based on the Spatial-Temporal Fusion Network
+# [ICPR 2024] - Oral Presentation
+# Re-Identification Based on the Spatial-Temporal Fusion Network
 
-
+### [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-78498-9_29)  [[Project]](https://sites.google.com/view/cvl-jnu/publication/STReID)
+---
 
 ### 1. FusionNet 학습
 
